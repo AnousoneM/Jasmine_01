@@ -1,7 +1,3 @@
-# Partie 4 : Les tableaux et leurs fonctions
-
-[Accueil](https://github.com/JohanneB-LM/Exercices-Javascript "Accueil") - [Partie 5 : Les évènements et la manipulation du DOM](../partie-05 "Partie 5")
-
 Cette partie aborde les tableaux et les fonctions natives de javascript qui leurs sont associées.
 
 Elle se fait, comme pour la partie précédent avec l'outil de tests unitaires Jasmine. Attention, Jasmine attend une réponse pré-définie très stricte.

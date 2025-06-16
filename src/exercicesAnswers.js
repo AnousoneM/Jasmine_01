@@ -1,21 +1,23 @@
 //Exercice 1 : Créer un tableau days et lui ajouter les jours de la semaine.
 let createArray = function (){
-  // ici votre return
+  let tableau = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi', 'Dimanche']
+  return tableau
 }
 
 //Exercice 2 : Retouner le 3ème élément du tableau days', function() {
 let returnThirdElement = function (array){
-  // ici votre return
+  return array[2]
 }
 
 //Exercice 3 : Afficher la valeur de l\'index 3 du tableau days.', function() {
 let returnThirdIndex = function (array){
-  // ici votre return
+  return array[3]
 }
 
 //Exercice 4 : Changer le 2ème élément du tableau languages par php.', function() {
 let changeSecondElement = function (array){
-  // ici votre return
+  array.splice(1,1,"php")
+  return array
 }
 
 //Exercice 5 : Ajouter ruby et python à la fin du tableau languages.', function() {
